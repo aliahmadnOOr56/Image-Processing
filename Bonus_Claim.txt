@@ -1,0 +1,16 @@
+Project Name: Rice Grain Variety Dataset Creation
+
+Bonus Claim – Extra Images
+
+Minimum Required:
+• 75 Raw Images
+• ~1500 Grain Images
+
+Submitted:
+• Total Raw Images: 100
+• Extra Raw Images: 25
+
+• Total Grain Images: 3000+
+• Extra Grain Images: 1500+
+
+All extra raw images have corresponding processed grain images.
